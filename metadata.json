@@ -1,0 +1,6 @@
+{
+  "name": "BrightMinds Academy",
+  "description": "Premium responsive landing page for BrightMinds Academy coaching center, showcasing tailored school programs, courses, interactive learning processes, success statistics, and testimonials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
